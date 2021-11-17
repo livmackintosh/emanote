@@ -32,7 +32,7 @@ data-files:
   index.yaml
   templates/**/*.tpl
 
-executable emanote
+library
   build-depends:
     , aeson
     , aeson-extra
